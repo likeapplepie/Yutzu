@@ -1789,7 +1789,7 @@ a {
   margin: 0;
 }
 .bear.bear1 .username {
-  font-size: 2rem;
+  font-size: 1.7rem;
   letter-spacing: 2px;
   line-height: 2.3rem;
   color: #746e6c;
@@ -1806,7 +1806,7 @@ a {
 #NewStringBox {
   display: none;
   position: relative;
-  font-size: 2rem;
+  font-size: 1.7rem;
   letter-spacing: 2px;
   top: 6px;
   color: #746e6c;
@@ -2539,7 +2539,7 @@ a {
   letter-spacing: 2px;
   top: 30px;
   color: #746e6c;
-  margin-top: 4.5px;
+  margin-top: 6px;
 }
 
 .bear_hand {
