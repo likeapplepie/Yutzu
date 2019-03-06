@@ -833,8 +833,8 @@ html, body {
   right: 3.125vw;
   top: 5vh;
   position: fixed;
-  width: 30px;
-  height: 30px;
+  width: 45px;
+  height: 45px;
   z-index: 11;
 }
 .burger:hover {
@@ -843,13 +843,13 @@ html, body {
 
 .line {
   transition: 0.5s;
-  width: 30px;
-  height: 6px;
+  width: 45px;
+  height: 9px;
   background-color: #f0ede7;
 }
 
 .line2 {
-  top: 12px;
+  top: 18px;
   transition: 0.2s;
 }
 
@@ -1647,8 +1647,8 @@ html, body {
 }
 
 .burger {
-  right: 45px;
-  top: 35px;
+  right: 80px;
+  top: 40px;
   position: fixed;
   width: 45x;
   height: 45px;
