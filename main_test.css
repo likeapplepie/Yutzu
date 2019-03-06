@@ -1671,42 +1671,7 @@ html, body {
   bottom: 0;
 }
 
-@keyframes topLineRotate {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    border-radius: 6px;
-    transform-origin: left top;
-    transform: rotate(43deg);
-    width: 36px;
-    transition: 0.5s;
-    height: 7px;
-  }
-}
-@keyframes midLineGone {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform-origin: left bottom;
-    width: 0;
-    transition: 0.5s;
-  }
-}
-@keyframes botLineRotate {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    border-radius: 6px;
-    transform-origin: left bottom;
-    transform: rotate(-42deg);
-    width: 36px;
-    transition: 0.5s;
-    height: 7px;
-  }
-}
+
 #home {
   height: 700px;
   width: 100%;
@@ -1844,7 +1809,7 @@ a {
   letter-spacing: 2px;
   top: 6px;
   color: #746e6c;
-  margin-top: 3px;
+  margin-top: 3.5px;
 }
 
 .bear_hand {
