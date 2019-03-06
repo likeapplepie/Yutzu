@@ -803,6 +803,8 @@ svg {
 
 }
 
+
+
 @media only screen 
 and (min-device-width : 700px) 
 and (max-device-width : 930px)  {
@@ -1645,7 +1647,7 @@ html, body {
 }
 
 .burger {
-  right: 70px;
+  right: 45px;
   top: 35px;
   position: fixed;
   width: 45x;
