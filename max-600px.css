@@ -1,9 +1,18 @@
+@media only screen 
+
+and (min-device-width : 414px) 
+
+and (max-device-width : 736px) 
+
+and (orientation : portrait) {
+
 @import url("https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,500");
 * {
   position: absolute;
   font-size: 20px;
   font-family: "Noto Sans TC", sans-serif;
 }
+
 
 html, body {
   width: 100%;
@@ -723,3 +732,4 @@ svg {
   transition: 0.5s;
 }
 
+}
