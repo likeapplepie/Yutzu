@@ -1831,7 +1831,7 @@ a {
 
 .box {
   position: absolute;
-  left: 4%;
+  left: 5%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1948,7 +1948,7 @@ ul, li, .left > div, .right > div {
 }
 
 li {
-  line-height: 1.3rem;
+  line-height: 1.4rem;
   font-weight: 400;
   color: #504b49;
   font-size: 1.1rem;
