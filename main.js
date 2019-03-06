@@ -208,7 +208,7 @@ $(window).scroll(function(){
 })
 
 $('#wave1').wavify({
-  height: 400,
+  height: 375,
   bones: 3,
   amplitude: 40,
   color: '#E4DFD4',

@@ -1948,7 +1948,7 @@ ul, li, .left > div, .right > div {
 }
 
 li {
-  line-height: 1.3rem;
+  line-height: 1.4rem;
   font-weight: 400;
   color: #504b49;
   font-size: 1.1rem;
@@ -2246,7 +2246,7 @@ svg {
   height: 100vh;
   width: 100vw;
   position: absolute;
-  bottom: -10px;
+  bottom: -100px;
   left: 0;
 }
 
@@ -3045,3 +3045,8 @@ svg {
 }
 
 }
+
+
+
+
+
