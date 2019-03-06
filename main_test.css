@@ -1636,7 +1636,7 @@ html, body {
 }
 
 .burger {
-  right: 35px;
+  right: 45px;
   top: 35px;
   position: fixed;
   width: 45x;
@@ -1855,7 +1855,7 @@ a {
 
 .box {
   position: absolute;
-  left: 2%;
+  left: 4%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1915,7 +1915,7 @@ a {
   z-index: 7;
   margin: 0;
   height: 100%;
-  line-height: 2.5rem;
+  line-height: 2.7rem;
   letter-spacing: 1px;
 }
 .contactArea.image {
@@ -1924,13 +1924,13 @@ a {
 
 .fb {
   position: relative;
-  height: 16.975px;
+  height: 1.5rem;
 }
 
 .fbname {
   position: relative;
   text-align: left;
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   left: 5%;
   padding: 0;
   margin: 0;
@@ -1939,7 +1939,7 @@ a {
 
 .mail {
   position: relative;
-  height: 13.3px;
+  height: 1.3rem;
 }
 
 .right {
