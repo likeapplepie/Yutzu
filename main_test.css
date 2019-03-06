@@ -2246,7 +2246,7 @@ svg {
   height: 100vh;
   width: 100vw;
   position: absolute;
-  bottom: -10px;
+  bottom: -100px;
   left: 0;
 }
 
