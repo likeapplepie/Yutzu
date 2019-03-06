@@ -2063,10 +2063,10 @@ li {
 
 .contactWord {
   color: #746e6c;
-  font-size: 30px;
+  font-size: 28px;
   line-height: 43px;
   top: 175px;
-  left: 56px;
+  left: 60px;
   text-align: center;
 }
 
@@ -2099,7 +2099,7 @@ li {
 }
 
 .infomail_word {
-  top: 47.5px;
+  top: 45px;
   font-size: 26px;
   color: #504b49;
 }
@@ -2109,7 +2109,7 @@ li {
 }
 
 .infoig_word {
-  top: 90px;
+  top: 88px;
 }
 
 .circle1 {
