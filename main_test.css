@@ -1627,7 +1627,7 @@ and (-webkit-device-pixel-ratio : 2)
 and (orientation: landscape) {
   @import url("https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,500");
 * {
-  border: 1px solid black;
+  /*border: 1px solid black;*/
   position: absolute;
   font-size: 12.5px;
   font-family: "Noto Sans TC", sans-serif;
@@ -3062,7 +3062,7 @@ and (-webkit-device-pixel-ratio : 2)
 and (orientation: landscape) {
   @import url("https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,500");
 * {
-  border: 1px solid black;
+  /*border: 1px solid black;*/
   position: absolute;
   font-size: 12.5px;
   font-family: "Noto Sans TC", sans-serif;
@@ -4496,7 +4496,7 @@ and (max-device-width : 812px)
 and (orientation: landscape) {
   @import url("https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,500");
 * {
-  border: 1px solid black;
+  /*border: 1px solid black;*/
   position: absolute;
   font-size: 12.5px;
   font-family: "Noto Sans TC", sans-serif;
