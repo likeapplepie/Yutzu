@@ -216,7 +216,7 @@ $('#wave1').wavify({
 })
 
 $('#wave2').wavify({
-  height: 30,
+  height: 20,
   bones: 3,
   amplitude: 40,
   color: '#9ebec6',
